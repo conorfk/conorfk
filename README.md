@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Conor
+-  I’m interested in computer science in general
+-  I’m currently learning javascript
